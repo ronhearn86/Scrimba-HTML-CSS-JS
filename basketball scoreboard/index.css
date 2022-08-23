@@ -1,0 +1,345 @@
+body {
+    margin: 0 auto;
+    position: relative;
+width: 575px;
+height: 385px;
+background: linear-gradient(0.75turn,#F94F6D,  #1B244A);
+}
+
+.container {
+    display: flex;
+    justify-content: end;
+    position: relative;
+    width: 575px;
+    height: 385px;
+    background: #1B244A;
+  
+}
+#homeId{
+    position: absolute;
+    width: 149px;
+    height: 36px;
+    left: 85px;
+    top: 68px;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    /* identical to box height, or 90% */
+    text-align: center;
+    color: #EEEEEE;
+}
+#guestId{
+    position: absolute;
+    width: 149px;
+    height: 36px;
+    left: 340px;
+    top: 68px;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    /* identical to box height, or 90% */
+    text-align: center;
+    color: #EEEEEE;
+}
+.background{
+position: absolute;
+width: 155px;
+height: 120px;
+left: 82px;
+top: 125px;
+background: #080001;
+border-radius: 5px;
+}
+#homeEl{
+    position: absolute;
+width: 117px;
+height: 120px;
+left: 100px;
+top: 125px;
+
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+/* or 141% */
+
+text-align: center;
+
+color: #F94F6D;
+}
+.btnlayout{
+position: absolute;
+width: 155px;
+height: 45px;
+left: 0px;
+top: 50px;
+}
+.btn1{
+box-sizing: border-box;
+background-color: transparent;
+position: absolute;
+width: 45px;
+height: 45px;
+left: 82px;
+top: 271px;
+
+
+border: 2px solid #9AABD8;
+border-radius: 5px;
+}
+#btn1{
+position: absolute;
+width: 45px;
+height: 45px;
+left: 89px;
+top: 280px;
+
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 155% */
+
+text-align: center;
+
+color: #9AABD8;
+}
+.btn2{
+box-sizing: border-box;
+position: absolute;
+width: 45px;
+height: 45px;
+left: 136px;
+top: 271px;
+border: 2px solid #9AABD8;
+border-radius: 5px;
+background-color: transparent;    
+}
+#btn2{
+position: absolute;
+width: 45px;
+height: 45px;
+left: 143px;
+top: 280px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 155% */
+
+text-align: center;
+
+color: #9AABD8;
+}
+.btn3{
+box-sizing: border-box;
+background-color: transparent;
+position: absolute;
+width: 45px;
+height: 45px;
+left: 192px;
+top: 271px;
+
+border: 2px solid #9AABD8;
+border-radius: 5px;
+}
+#btn3{
+position: absolute;
+width: 45px;
+height: 45px;
+left: 199px;
+top: 280px;
+
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 155% */
+
+text-align: center;
+
+color: #9AABD8;
+}
+
+.background2{
+position: absolute;
+width: 155px;
+height: 120px;
+left: 337px;
+top: 125px;
+
+background: #080001;
+border-radius: 5px;
+}
+#guestEl{
+    position: absolute;
+width: 117px;
+height: 120px;
+left: 355px;
+top: 125px;
+
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+/* or 141% */
+
+text-align: center;
+
+color: #F94F6D;
+}
+.btnlayout2{
+position: absolute;
+width: 155px;
+height: 45px;
+left: 0px;
+top: 50px;
+}
+
+.btn4{
+   box-sizing: border-box;
+background-color: transparent;
+position: absolute;
+width: 45px;
+height: 45px;
+left: 337px;
+top: 271px;
+
+border: 2px solid #9AABD8;
+border-radius: 5px; 
+}
+#btn4{
+    position: absolute;
+    width: 45px;
+    height: 45px;
+left: 344px;
+top: 280px;
+
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 155% */
+
+text-align: center;
+
+color: #9AABD8;
+
+}
+
+.btn5{
+    box-sizing: border-box;
+background-color: transparent;
+position: absolute;
+width: 45px;
+height: 45px;
+left: 391px;
+top: 271px;
+
+border: 2px solid #9AABD8;
+border-radius: 5px;
+    
+}
+#btn5{
+    position: absolute;
+    width: 45px;
+    height: 45px;
+left: 398px;
+top: 280px;
+
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 155% */
+
+text-align: center;
+
+color: #9AABD8;
+
+}
+.btn6{
+    box-sizing: border-box;
+background-color: transparent;
+position: absolute;
+width: 45px;
+height: 45px;
+left: 447px;
+top: 271px;
+
+border: 2px solid #9AABD8;
+border-radius: 5px;
+}
+#btn6{
+    position: absolute;
+    width: 45px;
+    height: 45px;
+left: 454px;
+top: 280px;
+
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 155% */
+
+text-align: center;
+
+color: #9AABD8;
+}
+.center{
+    text-align: center;
+    background-color: #F94F6D
+}
+
+@font-face {
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Cursed Timer ULiL'), url('https://fonts.cdnfonts.com/s/40642/CursedTimerUlil-Aznm.woff') format('woff');
+}
+#title{
+    color: white;
+    text-align: center;
+    text-shadow: 0px 0px 5px #9AABD8;
+}
+
+/*test */
+
+html, {
+  height: 100%;
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+  color: #f2f2f2;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+
+
+.btn {
+  top: 0;
+  left: 0;
+  transition: all .15s linear 0s;
+  position: relative;
+  display: inline-block;
+  padding: 10px 10px;
+  background-color: #F94F6D;
+  color: #9AABD8;
+  text-shadow: 0px 0px 10px black;
+  font-size: 40px;
+  border: 3px solid #9AABD8;
+  border-radius: 5%;
+}
+ 
